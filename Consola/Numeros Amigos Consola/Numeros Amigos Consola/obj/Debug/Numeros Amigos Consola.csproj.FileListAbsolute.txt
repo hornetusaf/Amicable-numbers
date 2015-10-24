@@ -1,0 +1,5 @@
+C:\Users\Hornet\Documents\numeros-amigos-sistema-distribuido\Consola\Numeros Amigos Consola\Numeros Amigos Consola\obj\Debug\Numeros Amigos Consola.csprojResolveAssemblyReference.cache
+C:\Users\Hornet\Documents\numeros-amigos-sistema-distribuido\Consola\Numeros Amigos Consola\Numeros Amigos Consola\bin\Debug\Numeros Amigos Consola.exe
+C:\Users\Hornet\Documents\numeros-amigos-sistema-distribuido\Consola\Numeros Amigos Consola\Numeros Amigos Consola\bin\Debug\Numeros Amigos Consola.pdb
+C:\Users\Hornet\Documents\numeros-amigos-sistema-distribuido\Consola\Numeros Amigos Consola\Numeros Amigos Consola\obj\Debug\Numeros Amigos Consola.exe
+C:\Users\Hornet\Documents\numeros-amigos-sistema-distribuido\Consola\Numeros Amigos Consola\Numeros Amigos Consola\obj\Debug\Numeros Amigos Consola.pdb

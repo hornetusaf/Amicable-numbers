@@ -1,0 +1,7 @@
+C:\Users\Hornet\Documents\numeros-amigos-sistema-distribuido\Servidor\NAD Servidor\NAD Servidor\bin\Debug\NAD Servidor.exe
+C:\Users\Hornet\Documents\numeros-amigos-sistema-distribuido\Servidor\NAD Servidor\NAD Servidor\bin\Debug\NAD Servidor.pdb
+C:\Users\Hornet\Documents\numeros-amigos-sistema-distribuido\Servidor\NAD Servidor\NAD Servidor\obj\Debug\NAD Servidor.csprojResolveAssemblyReference.cache
+C:\Users\Hornet\Documents\numeros-amigos-sistema-distribuido\Servidor\NAD Servidor\NAD Servidor\obj\Debug\NAD Servidor.exe
+C:\Users\Hornet\Documents\numeros-amigos-sistema-distribuido\Servidor\NAD Servidor\NAD Servidor\obj\Debug\NAD Servidor.pdb
+C:\Users\Hornet\Documents\numeros-amigos-sistema-distribuido\Servidor\NAD Servidor\NAD Servidor\obj\Debug\NAD_Servidor.MainForm.resources
+C:\Users\Hornet\Documents\numeros-amigos-sistema-distribuido\Servidor\NAD Servidor\NAD Servidor\obj\Debug\NAD Servidor.csproj.GenerateResource.Cache
